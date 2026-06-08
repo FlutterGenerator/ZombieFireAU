@@ -16,7 +16,7 @@
 #include "Unity/Vector3.h"
 #include "Unity/Rect.h"
 #include "Unity/Color.h"
-#include "Unity/unity.h"
+#include "Unity/Unity.h"
 #include "Unity/Quaternion.h"
 #include <dlfcn.h>
 #include "Includes/Logger.h"
