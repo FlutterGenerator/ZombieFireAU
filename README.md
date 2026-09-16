@@ -3,8 +3,8 @@
 
 [![License Info](https://img.shields.io/badge/License-GPL--3.0-blue.svg?style=flat-square)](https://github.com/FlutterGenerator/ZombieFireAU/blob/master/LICENSE)
 
-# Zombie Fire Version: (26072201) – 1.5.3
-**Google Play Release Date:** 22 July 2026
+# Zombie Fire Version: (26082404) – 1.5.4
+**Google Play Release Date:** 25 August 2026
 
 ![](img.jpg)
 
